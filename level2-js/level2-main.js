@@ -7,7 +7,7 @@ import { getPositionStrElements, reverseElements,  separationIntoThree, replaceU
 import { getUpperCaseWord, isUpperCaseSymbol, deleteAllEvenNum } from "./level2.7.js";
 import { isNoMoreThanTwoUpperCase, isNoMoreThanTwoSymbols, isMergerTwoArr } from "./level2.8.js";
 import { getSumPairElements, getreversedArr } from "./level2.9.js";
-import { getNoMoreThreeLetters, getFirstEvenNumberFromTheEnd } from "./level2.10.js";
+import { getNoMoreThreeLetters, getFirstEvenNumberFromTheEnd, replacingFirstCharacter } from "./level2.10.js";
 
 window.myApp = {
     getFirstZeroIndex,
@@ -45,5 +45,6 @@ window.myApp = {
     getSumPairElements,
     getreversedArr,
     getNoMoreThreeLetters,
-    getFirstEvenNumberFromTheEnd
+    getFirstEvenNumberFromTheEnd,
+    replacingFirstCharacter
 }

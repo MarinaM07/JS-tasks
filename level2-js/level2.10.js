@@ -57,6 +57,7 @@ export function getFirstEvenNumberFromTheEnd(num) {
 'abcde abcde abcde'
 Замените в ней первый символ каждого слова на '!':
 '!bcde !bcde !bcde' */
-export function replacingFirstCharacter (str) {
-    
+export function replacingFirstCharacter(str) {    
+
+
 }
